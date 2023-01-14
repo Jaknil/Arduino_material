@@ -1,4 +1,4 @@
-const String vers = "Version 1.0";
+const String vers = "Version 1.1";
 const String date = "Date 14.01.2023"; 
 #include <LiquidCrystal_I2C.h>
   LiquidCrystal_I2C lcd(0x27,16,2);
@@ -15,7 +15,7 @@ const String date = "Date 14.01.2023";
 //Variables
 byte timer = 0;
 boolean GO = 0; //0 is stopped, 1 is run
-boolean DIR = 0; //0 is reverse 1 is forward
+boolean DIR = 0; //1 is reverse 0 is forward
 byte PWM = 0; //the rotation speed 0-255
 
 void setup() {
@@ -35,5 +35,6 @@ readPotMeter();
 updateButtons();
 updateTimer();
 updateOutputs();
-delay(10);
+updateDisplay();
+delay(20);
 }
