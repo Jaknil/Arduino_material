@@ -1,4 +1,4 @@
-const String vers = "Version 1.1";
+const String vers = "Version 1.11";
 const String date = "Date 14.01.2023"; 
 #include <LiquidCrystal_I2C.h>
   LiquidCrystal_I2C lcd(0x27,16,2);

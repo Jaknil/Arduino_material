@@ -20,8 +20,4 @@ if(buttonSubtract == HIGH && timer>0){
   delay(buttonDelay);
   }
 }
-//Stop the motor if the time runs out
-if(timer ==0){
-  GO=0; 
-}
 }
