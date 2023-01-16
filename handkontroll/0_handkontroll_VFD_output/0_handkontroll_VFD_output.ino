@@ -1,5 +1,5 @@
-const String vers = "Version 1.11";
-const String date = "Date 14.01.2023"; 
+const String vers = "Version 1.2";
+const String date = "Date 16.01.2023"; 
 #include <LiquidCrystal_I2C.h>
   LiquidCrystal_I2C lcd(0x27,16,2);
 //0x27 er adressen, man kan ha 128 st på samme arduino pins om de har ulike adress
