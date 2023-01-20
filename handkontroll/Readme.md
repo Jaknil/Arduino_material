@@ -17,7 +17,7 @@ PDF files with muliple pages
 
 ![Knott](img/knob.jpg)
 
-## BOM Alixpress parts
+## BOM Aliexpress parts
 
 * [Buzzers passive](https://www.aliexpress.com/item/4000148640191.html) 
 * [Buzzers aktive 5V](https://www.aliexpress.com/item/1005003022264282.html) 
