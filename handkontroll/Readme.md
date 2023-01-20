@@ -1,7 +1,23 @@
 # Handkontroll
 
-## BOM
-Prices for each excluding VAT and shipping
+[Fusion model](https://a360.co/3voGYaH) 3D model opens in web-browser
+
+![Box with lid](img/box_all_parts.jpg)
+![lid off](img/box_without_lid.jpg)
+
+### Drawings
+PDF files with muliple pages
+* [Lid](drawings/lid.pdf)
+* [Back](drawings/bottom.pdf)
+* [Bottom](drawings/bottom.pdf)
+
+## Knob for potentiometer
+
+[Drawing showing the required 4 feature types](knott_krav.pdf)
+
+![Knott](img/knob.jpg)
+
+## BOM Alixpress parts
 
 * [Buzzers passive](https://www.aliexpress.com/item/4000148640191.html) 
 * [Buzzers aktive 5V](https://www.aliexpress.com/item/1005003022264282.html) 
