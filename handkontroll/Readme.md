@@ -26,3 +26,4 @@ PDF files with muliple pages
 * [Panel mount Mini USB socket to male mini USB right angled](https://www.aliexpress.com/item/4000819180471.html) 
 * [Arduino NANO 3.0 Old bootloader, CH340 USB driver, soldered pins, with mini USB cable](https://www.aliexpress.com/item/1005002509257579.html) 
 * [LED display, yellow blue, 0,98 Inch 128x64](https://www.aliexpress.com/item/32896971385.html) 
+  * [Tutorial and library](https://startingelectronics.org/tutorials/arduino/modules/OLED-128x64-I2C-display/)
